@@ -11,12 +11,12 @@ This project demonstrates **end-to-end data analysis** using two real-world data
 
 # 🎯 Objectives
 
-### Task 3: Customer Churn Analysis
+### Task : Customer Churn Analysis
 - Clean and preprocess telecom data
 - Perform feature engineering
 - Identify churn patterns
 
-### Task 4: Netflix Analysis
+### Task : Netflix Analysis
 - Analyze content trends
 - Explore genres and country distribution
 - Perform time-based analysis
